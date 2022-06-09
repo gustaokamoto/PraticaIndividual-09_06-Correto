@@ -1,0 +1,308 @@
+#img1{
+    width: 600px;
+    height: 163px;
+}
+
+div{
+    background-color: black;
+    width: 600px;
+}
+
+#PrimeiroTexto{
+    width: 439px;
+    height: 68px;
+    left: 60px;
+    top: 163px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #00A857;
+    background-color: black;
+}
+
+#SegundoTexto{
+    width: 89px;
+    height: 23px;
+    left: 60px;
+    top: 291px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+#TerceiroTexto{
+    width: 453px;
+    height: 71px;
+    left: 60px;
+    top: 374px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.imagens-margin{
+    margin: 20px 0px 0px 0px;
+}
+
+#carteira{
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    left: 60px;
+    top: 505px;
+}
+
+#tarifa-zero{
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    left: 60px;
+    top: 581px;
+}
+
+#tarifa{
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    left: 60px;
+    top: 657px;
+}
+
+#cashback{
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    left: 60px;
+    top: 733px;
+}
+
+.textos-imagens{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    color: #FFFFFF; 
+}
+
+#QuartoTexto{
+    position: absolute;
+    width: 317px;
+    height: 23px;
+    left: 146px;
+    top: 522px;
+    line-height: 23px;
+}
+
+#QuintoTexto{
+    position: absolute;
+    width: 367px;
+    height: 46px;
+    left: 146px;
+    top: 586px;
+    line-height: 23px;
+}
+
+#SextoTexto{
+    position: absolute;
+    width: 383px;
+    height: 46px;
+    left: 146px;
+    top: 662px;
+    line-height: 23px;
+}
+
+#SétimoTexto{
+    position: absolute;
+    width: 383px;
+    height: 46px;
+    left: 146px;
+    top: 738px;
+    line-height: 23px;
+}
+
+#top-imagem{
+    position: absolute;
+    width: 600px;
+    height: 131px;
+    left: 0px;
+    top: 844px;
+}
+
+#portabilidade{
+    position: absolute;
+    width: 600px;
+    height: 576px;
+    left: 0px;
+    top: 975px;
+}
+
+#completo{
+    position: absolute;
+    width: 600px;
+    height: 272px;
+    left: 0px;
+    top: 1551px;
+}
+
+#segundaDiv{
+    position: absolute;
+    width: 600px;
+    height: 612px;
+    left: 0px;
+    top: 1824px;
+    background: #FFFFFF;
+}
+
+#footer{
+    display: flex;
+    width: 540px;
+    height: 96.72px;
+    left: 30px;
+    top: 1853px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 29px;
+}
+
+#OitavoTexto{
+    width: 185px;
+    height: 40px;
+    left: 63px;
+    top: 1980px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #00A857;
+    margin-left: 63px;
+    margin-top: 30.28px;
+}
+
+#BancoOriginal{
+    font-weight: bolder;
+}
+
+#twitter{
+    width: 25px;
+    height: 25px;
+    left: 368px;
+    top: 1983px;
+}
+
+#facebook{
+    width: 25px;
+    height: 25px;
+    left: 403px;
+    top: 1983px;
+}
+
+#instagram{
+    width: 25px;
+    height: 25px;
+    left: 438px;
+    top: 1983px;
+}
+
+#linkedin{
+    width: 25px;
+    height: 25px;
+    left: 473px;
+    top: 1983px;
+}
+
+#youtube{
+    width: 25px;
+    height: 25px;
+    left: 508px;
+    top: 1983px;
+}
+
+#terceiraDiv{
+    width: 540px;
+    height: 296px;
+    left: 30px;
+    top: 2050px;
+    background: #F6F6F6;
+    border-radius: 10px;
+    padding-top: 28px;
+    padding-left: 33px;
+    padding-right: 33px;
+    padding-bottom: 26px;
+    box-sizing: border-box;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 90px;
+}
+
+#textoGrande{
+    width: 474px;
+    height: 242px;
+    left: 63px;
+    top: 2078px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    color: #4A4B4A;
+    margin: 0;
+    text-align: left;
+}
+
+#VerOnline{
+    position: absolute;
+    width: 57px;
+    height: 20px;
+    left: 218px;
+    top: 505px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: #B2B2B2;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+#Descadastrar{
+    position: absolute;
+    width: 89px;
+    height: 20px;
+    left: 300px;
+    top: 505px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: #B2B2B2;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    margin-right: 211px;
+}
+
+#imagens-sociais{
+    position: absolute;
+    text-align: center;
+    width: 150px;
+    margin-left: 368px;
+    margin-top: -50px;
+}
+
+body{
+    background-color: black;
+    margin-left: 28%;
+    position: relative;
+}
